@@ -1,4 +1,11 @@
+
 {
   "Version": "1.0.0",
-  "Files": []
+  "Files": [
+    {
+      "Path": "updates/update-test.txt",
+      "Url": "https://github.com/garik8383/CRMP-Game-Updates/releases/download/v1.0.0/update-test.txt",
+      "Sha256": "8e2924cab6f83660dd3c652ded34faca3d8235e356158b0a8691f9a7b714fccb"
+    }
+  ]
 }
